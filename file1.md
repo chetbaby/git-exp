@@ -1,5 +1,5 @@
 file 1
 
-discard a
+//discard a
 
 keep a
