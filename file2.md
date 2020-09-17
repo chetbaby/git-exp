@@ -1,5 +1,5 @@
 file 2
 
-keep b
+keep stop b
 
 //discard b
