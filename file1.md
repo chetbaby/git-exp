@@ -1,14 +1,5 @@
-EDIT ONE
+file 1
 
-this is how we dooo ttttttt
+discard a
 
-
-`llll`
-
-hh  heheh   ee
-
-htehhehe
-
-then this i   s how we WllllILL do it!!!
-
-hello kitty
+keep a

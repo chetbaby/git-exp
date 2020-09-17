@@ -1,13 +1,5 @@
-edhehheehehhhhheit twoOC
+file 2
 
+keep b
 
-
-teledoc me amedaeus
-l
-
-
-kekkkkke
-
-
-ekkee
- wap wayp wap
+discard b
