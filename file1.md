@@ -2,4 +2,4 @@ file 1
 
 //discard a
 
-keep stop a
+1keep stop a
