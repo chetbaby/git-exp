@@ -1,14 +1,7 @@
-edit one
-this is how we dooo ttttttt
+file 1
 
+//discard a
 
-llll
+1keep stop a
 
-hh  heheh   ee
-
-
-
-then this i   s how we WllllILL do it!!!
-
-
-modification on test2
+modifications to file one on test/branch

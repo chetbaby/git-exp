@@ -1,13 +1,5 @@
-edit twoOC
+file 2
 
+keep stop b
 
-
-teledoc me amedaeus
-l
-
-
-keke
-
-
-ekkee
- wap wayp wap
+//discard b
